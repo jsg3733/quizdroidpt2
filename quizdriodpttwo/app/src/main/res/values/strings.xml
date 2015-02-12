@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">quizdriodpttwo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_topic_overview">TopicOverview</string>
+    <string name="QuestionText">Question Goes Here</string>
+    <string name="ResponseOne">Response One</string>
+    <string name="ResponseTwo">Response Two</string>
+    <string name="ResponseThree">Response Three</string>
+    <string name="ResponseFour">Response Four</string>
+    <string name="btnNext">Begin</string>
+    <string name="TopicLocation">Topic Goes Here</string>
+    <string name="DescriptionLocation">Description Goes Here</string>
+    <string name="QuestionLocation">Questions: 5</string>
+    <string name="ResponseLocation">Response Goes Here</string>
+    <string name="AnswerLocation">Answer Goes Here</string>
+    <string name="HowManyRightLocation">Question Amount Right</string>
+
+</resources>
